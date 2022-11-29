@@ -1,0 +1,23 @@
+{
+  "name": "genuine-charity-application-main",
+  "version": "1.0.0",
+  "description": "<br /> <p align=\"center\">        <img src=\"https://drive.google.com/uc?export=view&id=17oE81x8pLWTI3GjqXKJKAtfxnJMUpdNl\" alt=\"Click to view\" width=\"120\" height=\"120\">",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --timeout 15000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.0",
+    "ganache": "^7.4.4",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.1.0",
+    "solc": "^0.4.26",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.8.0"
+  }
+}
