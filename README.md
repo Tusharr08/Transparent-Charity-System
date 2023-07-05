@@ -1,13 +1,10 @@
-# Transparent-Charity-System
+#                   Transparent-Charity-System
  
 
 <br />
 <p align="center">
-       <img src="https://images.unsplash.com/photo-1584441405886-bc91be61e56a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9nbyUyMGZvciUyMGNoYXJpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="Click to view" width="120" height="120">
+       <img src="https://images.unsplash.com/photo-1584441405886-bc91be61e56a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9nbyUyMGZvciUyMGNoYXJpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="Click to view" width="120" height="120"/>
 
-
-       <h1 align="center">Transparent Charity System</h1>
-    <br><br>
   </p>
 </p>
 
@@ -124,6 +121,7 @@ npm run start    (backend)
 * ```Run this onterminal of web3 directory
  npm run deploy
 * Then you'll get a link to thirdweb dashboard,navigate to it and sign the two transactions for complete deployment.
+  [Dashboard](https://drive.google.com/file/d/1JfGZTpB0rj8AzcxDyizZ7earrqYIQn0H/view?usp=sharing)
 * Install the MetaMask Browser extension - [Link to MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 * After that you'll see a dashboard -
  ![Click to view](https://drive.google.com/uc?export=view&id=1w8vioZQUxLInTexHPJsrR1xQVx9a0Vb1)
@@ -143,12 +141,9 @@ It was awesome working as a leader in this project. I learnt how Blockchains wor
 * Make an Andriod app for this idea.
 
 ## 🎨Screenshots
- ![Click to view](https://drive.google.com/uc?export=view&id=12TAfrme-NDTBkhtnWFr3TsyEOdtMP4Jl)
- ![Click to view](https://drive.google.com/uc?export=view&id=1vK4JK8lPMLAarbBzuHBsdPWO5ypKhU1S)
- ![Click to view](https://drive.google.com/uc?export=view&id=1YcszBNbehBJ_l639gY1zPWC-IDkClrq5)
- ![Click to view](https://drive.google.com/uc?export=view&id=1CZUn1mj9NRQlItvdrmk28IiZLIG4QVZ9)
- ![Click to view](https://drive.google.com/uc?export=view&id=1ZtbV-GH0r1XLZtSrGpfCVZGDVONUhZc6)
- ![Click to view](https://drive.google.com/uc?export=view&id=12xJ4IyhTOcyuqcB5VJ__Qx0oRosAS9M4)
- ![Click to view](https://drive.google.com/uc?export=view&id=1dp_Q8c1b0pzpoiwW18sP1ioYb5jKzRes)
- ![Click to view](https://drive.google.com/uc?export=view&id=1jsvI2qNV5XfWeUTMfaGMupVOlBxufukY)
- ![Click to view](https://drive.google.com/uc?export=view&id=1rwQZdVSvsD39PS-p6UKssF1Gn_gIbcWC)
+ ![Click to view](https://drive.google.com/file/d/1JPn1wkKZV5llVL01eMWzSMolQ5rB9p1T/view?usp=sharing)
+ ![Click to view](https://drive.google.com/file/d/1JOLtZ4UsNNNVhTZqtTuOmihpX1uWN5nJ/view?usp=drive_link)
+ ![Click to view](https://drive.google.com/file/d/1JP808gupMZ4hjfbu07VNL07omjAP6Jtd/view?usp=drive_link)
+ ![Click to view](https://drive.google.com/file/d/1JUBwQvJofTiuZ_g1tyl8LyY-FLl8kmm9/view?usp=drive_link)
+ ![Click to view](https://drive.google.com/file/d/1JOB-HIU8w8ZS8wSLBZB_yqU9V7gWWN3G/view?usp=drive_link)
+
