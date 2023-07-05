@@ -121,10 +121,9 @@ npm run start    (backend)
 * ```Run this onterminal of web3 directory
  npm run deploy
 * Then you'll get a link to thirdweb dashboard,navigate to it and sign the two transactions for complete deployment.
-  [Dashboard](https://drive.google.com/file/d/1JfGZTpB0rj8AzcxDyizZ7earrqYIQn0H/view?usp=sharing)
 * Install the MetaMask Browser extension - [Link to MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 * After that you'll see a dashboard -
- ![Click to view](https://drive.google.com/uc?export=view&id=1w8vioZQUxLInTexHPJsrR1xQVx9a0Vb1)
+ ![Click to view](https://drive.google.com/file/d/1JfGZTpB0rj8AzcxDyizZ7earrqYIQn0H/view?usp=sharing)
 
 * Now you can see all your functions.
 
