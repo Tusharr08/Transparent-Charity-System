@@ -139,10 +139,4 @@ It was awesome working as a leader in this project. I learnt how Blockchains wor
 * Make the UI/UX even better.
 * Make an Andriod app for this idea.
 
-## 🎨Screenshots
- ![Click to view](https://drive.google.com/file/d/1JPn1wkKZV5llVL01eMWzSMolQ5rB9p1T/view?usp=sharing)
- ![Click to view](https://drive.google.com/file/d/1JOLtZ4UsNNNVhTZqtTuOmihpX1uWN5nJ/view?usp=drive_link)
- ![Click to view](https://drive.google.com/file/d/1JP808gupMZ4hjfbu07VNL07omjAP6Jtd/view?usp=drive_link)
- ![Click to view](https://drive.google.com/file/d/1JUBwQvJofTiuZ_g1tyl8LyY-FLl8kmm9/view?usp=drive_link)
- ![Click to view](https://drive.google.com/file/d/1JOB-HIU8w8ZS8wSLBZB_yqU9V7gWWN3G/view?usp=drive_link)
 
