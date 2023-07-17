@@ -129,16 +129,17 @@ after following the steps run
 ```
 npm run dev      (client)
 npm run start    (backend)
-npm run deploy   (web3,re-deploy the contract and start fresh)
 ```
 
 3. Refer to the package.json file for full details on the installed packages.
 
-4. To run the Contract online, refer to the EthFiddle Link above.
+4. To directly run the Contract online, refer to the EthFiddle Link above.
  
 7. To deploy the contract on the Sepolia Test Network using ThirdWeb, follow the steps - 
-* ```Run this onterminal of web3 directory
+* Run this onterminal of web3 directory
+ ```
  npm run deploy
+ ```
 * Then you'll get a link to thirdweb dashboard,navigate to it and sign the two transactions for complete deployment.
   
 * Install the MetaMask Browser extension - [Link to MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
