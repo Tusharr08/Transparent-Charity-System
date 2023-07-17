@@ -67,7 +67,7 @@ Following functions have been met:
 7. Create Donor profile.
    ![donor](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/16e81eb7-3856-42f4-8eb1-309d7e758754)
 
-8. Donors can then donate to projects.
+8. Donors can then donate to projects. And the donors for a project is visible in project details when you click on a project.
    ![project donation](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/bf8edf28-41b6-46d2-b4b1-375cbca3733c)
 
 9. Create cooperative store owner profile. There can be only single store owner for now.
