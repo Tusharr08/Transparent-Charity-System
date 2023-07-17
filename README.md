@@ -3,21 +3,15 @@
 
 <br />
 <p align="center">
-       <img src="https://images.unsplash.com/photo-1584441405886-bc91be61e56a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9nbyUyMGZvciUyMGNoYXJpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="Click to view" width="120" height="120"/>
-
-  </p>
-</p>
-
-
-## 🤔 About Project
-
-The Transparent Charity System is a blockchain-based charity foundation platform that facilitates the trustful network's formation and is accountable for collecting donation funds. 
+       <img src="https://images.unsplash.com/photo-1584441405886-bc91be61e56a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9nbyUyMGZvciUyMGNoYXJpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="Click to view" width="120" height="120"/>HICH 
 
 ## STATUS
 
-* THIS PROJECT IS COMPLETE AND SHOULD ONLY BE USED FOR LOGICAL AND FUNDAMENTAL UNDERSTANDING PURPOSE.
+* THIS PROJECT IS INCOMPLETE AND SHOULD ONLY BE USED FOR LOGICAL AND FUNDAMENTAL UNDERSTANDING PURPOSE.
 * THE SOLIDITY CODE IS WRITTEN IN NEW VERSION AND ADDRESS OF SMART CONTRACT IS THERE IN WEB3 FOLDER.
 * THE FRONTEND IS READY AND BUILT WITH REACT + VITE BUT HAS FEW UI FEAUTRES.
+* THE BACKEND FOLDER HAS THE MYSQL DATABASE WHICH IS NOT FUNCTIONAL CURRENTLY.
+* YOU CAN ACCESS USER DASHBOARDS USING ROUTES PROVIDED IN ROUTES.JS IN CLIENT.
 * THE SMART CONTRACT WORKS COMPLETELY.
 
 ## 🙏 Mentors
@@ -122,9 +116,10 @@ npm run start    (backend)
  npm run deploy
 * Then you'll get a link to thirdweb dashboard,navigate to it and sign the two transactions for complete deployment.
 * Install the MetaMask Browser extension - [Link to MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+
 * After that you'll see a dashboard -
  ![Click to view](https://drive.google.com/file/d/1JfGZTpB0rj8AzcxDyizZ7earrqYIQn0H/view?usp=sharing)
-
+ ![thirdweb](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/08a6dc35-d8f7-44e2-a257-c7910948c451)
 * Now you can see all your functions.
 
 ## 📝Applications
