@@ -48,15 +48,39 @@ The organization can verify the charity projects and approve them once verified.
 
 ### Dapp Model
 Following functions have been met:
-1. Beneficiary initiates a charity project in the DApp.
-2. Beneficiary requests funds from the charity project initiated by himself.
-3. The charity project is visible on Organization's dashboard, where they can be approved.
-4. Once approved, Donors can see them in their own dashboard and donate to any project they like.
-5. Cooperative Store Owner can add their product or service on the store.
-6. Beneficiaries, once they get the tokens(here eth) from any Donor can spend that in store and buy any product or service.
-   
+1. Beneficiary creates profile.
+   ![beneficiary profile creation](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/75ef0f81-c395-4eff-84ef-72fa840e7d02)
 
- ![Click to view](https://drive.google.com/uc?export=view&id=16A1Cf693mqt2Uh7Xy3XIfik7wojh3Der)
+2. Beneficiary initiates a charity project in the DApp.
+![charity project creation](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/4d76b327-65f5-47f3-a299-442fd9490483)
+
+3. Beneficiary requests funds from the charity project initiated by himself.
+![project details](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/cb073fa2-e883-4ead-8721-88b834fa92c8)
+
+4. Create charity organization profile.
+   ![charity Organization](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/f5db9b0c-a743-4b1a-a7cb-c189c08d102d)
+
+5. The charity project is visible on Organization's dashboard, where they can be approved.
+   ![project approval](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/f3fb8f31-8701-47c6-b51a-a27eb540d108)
+
+6. Once approved, Donors can see them in their own dashboard.
+   ![approved projects](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/8984a602-4ad3-4de9-875c-0eb94c6b339d)
+
+7. Create Donor profile.
+   ![donor](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/16e81eb7-3856-42f4-8eb1-309d7e758754)
+
+8. Donors can then donate to projects.
+   ![project donation](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/bf8edf28-41b6-46d2-b4b1-375cbca3733c)
+
+9. Create cooperative store owner profile. There can be only single store owner for now.
+    ![store owner](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/fdbb41ea-994d-4275-ac1b-aec41de03be0)
+
+7. Cooperative Store Owner can add their product or service on the store.
+    ![add a product](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/4e176120-0576-47cc-afb2-61e110292f9e)
+
+8. Beneficiaries, once they get the tokens(here eth) from any Donor can spend that in store and buy any product or service.
+  ![listed products](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/eb3db41f-d4c7-4891-bbe0-cb41034f636f)
+
 
 ## 📃 Description
 
@@ -105,6 +129,7 @@ after following the steps run
 ```
 npm run dev      (client)
 npm run start    (backend)
+npm run deploy   (web3,re-deploy the contract and start fresh)
 ```
 
 3. Refer to the package.json file for full details on the installed packages.
@@ -115,12 +140,19 @@ npm run start    (backend)
 * ```Run this onterminal of web3 directory
  npm run deploy
 * Then you'll get a link to thirdweb dashboard,navigate to it and sign the two transactions for complete deployment.
+  
 * Install the MetaMask Browser extension - [Link to MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 
 * After that you'll see a dashboard -
- ![Click to view](https://drive.google.com/file/d/1JfGZTpB0rj8AzcxDyizZ7earrqYIQn0H/view?usp=sharing)
  ![thirdweb](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/08a6dc35-d8f7-44e2-a257-c7910948c451)
 * Now you can see all your functions.
+  ![contract functions](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/21fcfca2-3581-4c26-adf5-091edc5ebf1f)
+
+* Create four different user accounts on Metamask and get sepolia test ethers [here](https://sepoliafaucet.com/)
+  ![user accounts](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/8cccf994-1230-4c92-b9f0-1e854d739af7)
+
+* Access different dashboards through routes in routes.js in client since sign-in/sign-up is not working currently.
+  
 
 ## 📝Applications
 > Many fake charity organizations pose as genuine and loot money from innocent people in the name of charity. Most people want to donate money to a good cause of charity, but they are unsure if the money is going to reach the right hands of the destitute.  The blockchain system can bring transparency to online charity trusts. Contributors can see the journey of the donation in realtime and confirm if it’s reaching the deserving hands or not.
