@@ -14,8 +14,6 @@
 * YOU CAN ACCESS USER DASHBOARDS USING ROUTES PROVIDED IN ROUTES.JS IN CLIENT.
 * THE SMART CONTRACT WORKS COMPLETELY.
 
-## 🙏 Mentors
-* CHATGPT ;) 
 
 ## 🔗The Design of Charity System Based on Blockchain
 The charity system mode proposed is shown in the Figure below. There are four roles: donors, beneficiaries, 
