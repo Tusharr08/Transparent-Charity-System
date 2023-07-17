@@ -1,8 +1,6 @@
 #                   Transparent-Charity-System
  
-
-<br />
-![landingpage](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/3366958e-bc8d-41ba-a03f-fb62e6c8ac96)
+![landingpage](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/e01923c7-b1cd-425f-b023-44cf9a9ce53b)
 
 
 ## STATUS
