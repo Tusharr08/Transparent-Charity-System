@@ -158,9 +158,13 @@ npm run start    (backend)
 
 It was awesome working as a leader in this project. I learnt how Blockchains work giving me a clear understanding of the various moving pieces and concepts regarding Blockchain. I was able to contribute to a solidity contract and write tests for the same. I gained many useful skills related to management, leadership, team-work and also got to know a lot about my co-workers and mentors. It was fun working with them on this project. So, overall it was a huge success.
 
+Give a star if you like the project!
+
 ## 🔮Future scope
 * Verification for Beneficiaries can be more detailed.
 * Make the UI/UX even better.
 * Make an Andriod app for this idea.
+
+
 
 
