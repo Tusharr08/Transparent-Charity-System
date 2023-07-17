@@ -2,8 +2,8 @@
  
 
 <br />
-<p align="center">
-       <img src="https://images.unsplash.com/photo-1584441405886-bc91be61e56a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9nbyUyMGZvciUyMGNoYXJpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="Click to view" width="120" height="120"/>
+![landingpage](https://github.com/Tusharr08/Transparent-Charity-System/assets/63712960/3366958e-bc8d-41ba-a03f-fb62e6c8ac96)
+
 
 ## STATUS
 
